@@ -4,10 +4,8 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-requests = "==2.32.5"
 appdirs = "==1.4.4"
 python-dateutil = "==2.9.0.post0"
-setuptools = "==80.3.1"
 packaging = "==25.0"
 bblearn = ">=0.3.4.post0"
 whoisit = ">=3.0.4"
@@ -19,6 +17,8 @@ pathvalidate = "*"
 pydantic = "*"
 pyqt6 = "*"
 pyqt6-webengine = "*"
+requests = "==2.34.2"
+setuptools = "==83.0.0"
 
 [dev-packages]
 coverage = "*"
