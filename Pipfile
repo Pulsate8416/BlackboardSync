@@ -18,7 +18,7 @@ pydantic = "*"
 pyqt6 = "*"
 pyqt6-webengine = "*"
 requests = "==2.34.2"
-setuptools = "==83.0.0"
+setuptools = "==78.1.1"
 
 [dev-packages]
 coverage = "*"
