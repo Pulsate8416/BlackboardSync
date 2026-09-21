@@ -19,6 +19,7 @@ pyqt6 = "*"
 pyqt6-webengine = "*"
 requests = "==2.34.2"
 setuptools = "==83.0.0"
+soupsieve = ">=2.9.0"
 
 [dev-packages]
 coverage = "*"
@@ -45,6 +46,7 @@ types-appdirs = "*"
 types-python-dateutil = "*"
 pyqt5-stubs = "*"
 sphinx-rtd-theme = "*"
+cryptography = ">=50.0.0"
 
 [requires]
 python_version = "3.10"
